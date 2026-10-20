@@ -2,8 +2,6 @@
 
 ![Replace with your Part 1 screenshot](screenshots/NetworkTopology.png)
 
-*Suggested screenshot: The completed initial topology showing the switches, end devices, and network connections.*
-
 ---
 **Tools:** Cisco Packet Tracer, Cisco IOS CLI  
 **Project Type:** Networking Lab / Personal Portfolio Project  
@@ -126,6 +124,8 @@ The project helped me develop practical networking skills and a better understan
 - Practiced checking interface settings, LACP negotiation, and port-channel status when links did not bundle correctly.
 - Encountered a documented Packet Tracer limitation in which allowed VLAN settings might not appear correctly on the logical port-channel interface. The lab describes applying the allowed VLAN configuration directly to the port-channel interface as a workaround.
 
+![Replace with your Part 2 screenshot](screenshots/etherchannel.png)
+![Replace with your Part 2 screenshot](screenshots/spanningtree.png)
 
 ## Part 6: Connecting the Distribution Layer to the Core
 
@@ -175,6 +175,7 @@ This stage extended the enterprise network by connecting the distribution switch
 - Practiced checking routing information and network reachability when validating dynamic routing.
 - Reviewed documented Packet Tracer limitations involving certain OSPF commands on Layer 3 port channels and route selection. These limitations can affect the simulated results even when the intended configuration has been applied.
 
+![Replace with your Part 2 screenshot](screenshots/ospf.png)
 
 
 ## Key Takeaways
