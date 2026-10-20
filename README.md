@@ -90,13 +90,6 @@ The project helped me develop practical networking skills and a better understan
 - Checked that the correct VLANs and IP addresses were configured.
 - Used interface status and connectivity tests to help identify routing or configuration issues.
 
-### Screenshot
-
-![Replace with your Part 3 screenshot](screenshots/part-3-svis.png)
-
-*Suggested screenshot: The `show ip interface brief` output displaying configured SVIs and their interface status.*
-
----
 
 ## Part 4: Routed Ports and Routing
 
@@ -114,7 +107,7 @@ The project helped me develop practical networking skills and a better understan
 - Learned that a routed interface differs from a Layer 2 switchport because it can have its own IP address.
 - Used traceroute results to confirm that traffic was passing through the expected Layer 3 devices.
 
-![Replace with your Part 4 screenshot](screenshots/routes.png)
+![Replace with your Part 4 screenshot](screenshots/IProutes.png)
 
 ## Part 5: EtherChannel and Spanning Tree Protocol
 
